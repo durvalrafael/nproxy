@@ -2,7 +2,7 @@
 
 A cli proxy tool specialized in file replacing
 
-[![Build Status](https://secure.travis-ci.org/goddyZhao/nproxy.png)](http://travis-ci.org/goddyZhao/nproxy)
+[![Build Status](https://travis-ci.org/durvalrafael/nproxy.svg?branch=master)](https://travis-ci.org/durvalrafael/nproxy)
 
 ## Why NProxy
 
