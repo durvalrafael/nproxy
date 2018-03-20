@@ -1,0 +1,8 @@
+title: NProxy
+description: A cli proxy tool specialised in file replacing
+google_analytics: UA-16320265-17
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
